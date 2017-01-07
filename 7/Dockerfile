@@ -1,4 +1,4 @@
-# link3/centos:7
+# link3tecnologia/centosjava8:7
 FROM centos:7.3.1611
 ENV JDK_VERSION=8u111
 ENV BUID=14
